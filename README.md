@@ -2,7 +2,7 @@
 A Thesis presented for the Master’s degree acquisition “Management and Information Systems”, School of Informatics, Aristotle University of Thessaloniki, Greece 2023
 
 
-                                Abstract
+#                                  Abstract
 During the last years, networks and graph theory have been used in a variety of
 scientific fields, reaching out into solutions about complex scientific issues in computer
 science, biology, mathematics, physics, chemistry, social sciences, economics etc. Specif-
